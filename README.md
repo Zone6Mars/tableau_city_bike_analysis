@@ -86,7 +86,8 @@ Remember, the people reading your analysis will **NOT** be data analysts. Your a
 
 Your final submission should include:
 
-* A link to your Tableau Public workbook that includes: 
+* A link to your Tableau Public workbook that includes:
+* https://public.tableau.com/app/profile/marius7107/viz/Tableau-HW-Citybike-challenge/CasualRidersSubscribedRidersandAreasofIntrest 
   * 4-10 Total "Phenomenon" Visualizations 
   * 2 Dashboards
   * 1 City Official Map
